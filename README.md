@@ -1,3 +1,3 @@
-# Jetbrains Connect Four for Kotlin and Dart
+# Connect Four for Kotlin and Dart
 
-Jetbrains Connect Four project for studying Kotlin and Dart.
+Connect Four project from hyperskill.org for studying Kotlin and Dart.
